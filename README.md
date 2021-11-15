@@ -12,7 +12,7 @@ The `ufos.csv` spreadsheet includes columns about the city, state and country wh
 
 Seconds, Latitude and Longitude were selected the three features we want to train on as the X vector, and the y vector is the Country. 
 
-On the website you can put 3 inputs (Seconds, LAtitude and Longitude) and get which country is it from to return as a prediction.
+On the website you can put 3 inputs (Seconds, Latitude and Longitude) and get which country is it from to return as a prediction.
 ## Environment and tools
 1. scikit-learn
 2. pandas
