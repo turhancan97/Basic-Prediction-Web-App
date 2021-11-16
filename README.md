@@ -23,7 +23,7 @@ On the website you can put three inputs (Seconds, Latitude and Longitude) and ge
 
 1. Clone this repo:
 
-`git clone https://github.com/turhancan97/Basic-Prediction-Web-App`
+`git clone https://github.com/turhancan97/Basic-Prediction-Web-App.git`
 
 2. Now, open command prompt run this file by navigating to web-app:
 
